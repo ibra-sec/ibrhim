@@ -1,5 +1,69 @@
 <h1>Hi 👋, I'm a Devop Engineer and Technician IT infrastructure security</h1>
 <p>A passionate frontend developer  & </p>
+
+## Profil
+
+Professionnel en sécurité informatique et réseaux, avec plus de 4 ans d'expérience et une forte expertise en automatisation Python. Passionné par l'amélioration des mesures de protection des données et la gestion des systèmes informatiques.
+
+## Compétences
+
+- **Langages et Outils :**
+  - SQL, Tableau, PHP
+- **Techniques :**
+  - Procédures stockées, dépannage technique
+- **Sécurité :**
+  - Gestion et évaluation des vulnérabilités, pare-feu, hacking éthique
+- **Systèmes :**
+  - Systèmes d'exploitation Linux et Windows, configuration et installation
+- **Données :**
+  - Processus ETL, manipulation de données, requêtes SQL, gestion de bases de données
+- **Analyse :**
+  - Tests A/B, régression, classification, regroupement
+- **Virtualisation :**
+  - Configuration de VMware, gestion d'Active Directory
+- **Gestion :**
+  - Priorisation des tâches, sauvegarde de données, Google Analytics, BI avancée
+
+## Expérience Professionnelle
+
+### Technicien en Câble-Distribution Internet
+**Axians Télécommunication, Laval, Québec** | 2023-2024
+- Installation de systèmes de câble et de fibre optique.
+- Diagnostic et résolution de problèmes techniques pour les clients.
+- Coordination avec les équipes d’assistance niveaux 1 et 2.
+
+### Directeur Général des Ventes
+**Mahamat Adoum (entreprise familiale), Tchad** | 2008-2023
+- Gestion des ventes B2B et B2C, identification des besoins clients.
+- Négociation des prix et analyse des retours clients pour améliorer l'offre.
+
+### Consultant Bénévole
+**Bait Al-Tchadi (pâtisserie), Tchad** | 2021-2023
+- Conseils en marketing numérique et utilisation des médias sociaux pour accroître la visibilité de l'entreprise.
+
+## Éducation, Formations & Certifications
+
+- **Maisonneuve** (Programme de perfectionnement) - Montréal | 2023-2024
+- **Azure Microsoft** - Infrastructure et déploiement
+- **Certified Information Systems Security Professional (CISSP)**
+- **Hacking Éthique Certifié (CEH)** : CE5931246087
+- **Administration Cisco CCNA et Linux** | 2020
+- **B.Tech en Génie Électronique et Télécommunications**  
+  Institut de Technologie Industrielle de Kalinga, Inde | 2016-2020
+- **Baccalauréat du Deuxième Degré** | Collège Ibnoucina, N'Djamena | 2013
+
+## Formations Complémentaires
+
+- **Cybrary** (2019-2022): Cours divers sur la cybersécurité et l'administration des systèmes.
+- **Projet e-Commerce**: [healtywealty.com](https://healtywealty.com/) | 2024
+
+## Programmation et Plateformes en Ligne
+
+- **Langages**: Matlab, HTML, CSS, JavaScript, Bash Script
+- **Expérience avec**: TryHackMe, HackTheBox, PicoCTF
+
+---
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
