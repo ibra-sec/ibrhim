@@ -1,7 +1,81 @@
 <h1>Hi 👋, I'm a Devop Engineer and Technician IT infrastructure security</h1>
 <p>A passionate frontend developer  & </p>
+## Profile - [En] version 
 
-## Profil
+With proven expertise and a strong foundation in IT & Network Security, I am eager to expand my skill set. I have over 4 years of experience, adept in Python automation, and a track record of enhancing data protection measures, which are at the forefront of my career achievements.
+
+---
+
+## Skills
+
+- **Programming & Data Analysis:** SQL, Tableau, R, PHP, Data Analytics
+- **Technical Skills:** Stored Procedures, Technical Troubleshooting, Information Security
+- **Assessment & Management:** Vulnerability Assessment, Task Prioritization
+- **Networking & Systems:** Firewall, Data Visualization, Linux OS, Windows System
+- **Installation & Configuration:** Setup and Install OS, ETL Processes, Data Manipulation
+- **Testing & Analysis:** A/B Testing, Regression, Classification, Clustering
+- **Virtualization:** VMware Configuration, Active Directory Management
+- **Business Intelligence:** Power BI, Google Analytics, Ethical Hacking (Plunk)
+
+---
+
+## Professional Experience
+
+### Technician for Cable-Distributions Internet
+**Axians Telecommunication, Laval, Quebec** | 2023-2024
+- Conducted end-to-end installation of internet services using technical resources.
+- Explained processes to clients and diagnosed issues as necessary.
+- Coordinated with support teams (Level 1 & 2) for device replacements (e.g., WiFi material Helix).
+
+### General Manager of Sales
+**Mahamat Adoum (Family Business), Tchad** | 2008-2023
+- Managed B2B and B2C sales, helping customers identify their needs and negotiate product prices.
+- Collected and analyzed client feedback to improve product offerings.
+
+### Voluntary Consultant
+**Bait Al-Tchadi (Pâtisserie), Tchad** | 2021-2023
+- Provided guidance on using TikTok for marketing, including photography and video production.
+- Leveraged social media and ceremonies to enhance visibility and engagement.
+
+---
+
+## Education, Training & Certifications
+
+- **Maisonneuve** (Perfection Programme) - Montréal | 2023-2024  
+- **Azure Microsoft** - Infrastructure and Deployment (AZ-104)  
+- **Certified Information Systems Security Professional (CISSP)**  
+- **Certified Ethical Hacking (CEH)**: CE5931246087  
+- **EC-Council & ISOEH (Indian School of Ethical Hacking)** | 2019-2020  
+  - Focus on intrusion techniques, SQL Injection, Nmap, Honeypot, and more.
+- **Cisco CCNA & Linux Administration** | 2020  
+- **B.Tech in Electronic and Telecommunication Engineering**  
+  Kalinga Institute of Industrial Technology, India | 2016-2020  
+- **Baccalauréat du Deuxième Degré** | Collège Ibnoucina, N'Djamena | 2013  
+
+---
+
+## Additional Training
+
+- **Cybrary** (2019-2022): Courses on IoT Security, Offensive Testing, Cybersecurity Metrics, and more.
+- **ISC2 Certified Secure Software Life-Cycle Professional (CSSLP)**  
+
+---
+
+## Programming & Online Platforms
+
+- **Languages:** Matlab, HTML, CSS, JavaScript, Bash Script  
+- **Platforms:** TryHackMe, HackTheBox, PicoCTF  
+
+---
+
+## Project
+
+### E-Commerce Website
+- **URL:** [healtywealty.com](https://healtywealty.com/) | 2024  
+- Developed an online e-commerce platform utilizing resources from Shopify and Alibaba Express.
+
+---
+## Profil -[Fr] Version
 
 Professionnel en sécurité informatique et réseaux, avec plus de 4 ans d'expérience et une forte expertise en automatisation Python. Passionné par l'amélioration des mesures de protection des données et la gestion des systèmes informatiques.
 
